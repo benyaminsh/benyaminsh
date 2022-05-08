@@ -1,4 +1,4 @@
-Hi i'm benyamin shokohi 😐
+Hi i'm benyamin shokohi 
 
 🐍 Python -Django 
 
